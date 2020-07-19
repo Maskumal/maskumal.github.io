@@ -1,5 +1,5 @@
 # Site meta
-title: Maskumal github page
+title: Sumarmo github page
 description: This is github page of Maskumal
 show_downloads: true
 index_name: index.html
@@ -7,7 +7,7 @@ google_analytics:
 
 # Site Author
 author:
-  name             : Maskumal
+  name             : Sumarmo
   avatar           : ""
   bio              : "My github page"
   location         : "Indonesia"
@@ -60,4 +60,3 @@ exclude:
   - README
   - tmp
 time-zone: Asia/Jakarta
-
